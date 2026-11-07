@@ -26,7 +26,7 @@ Fifteen years of leading large-scale distributed control and robotics software i
 
 ### Commercial Support & Consulting
 
-Available for commercial support, consulting, training, and custom development in C++, state estimation, and robotics. [Get in touch](https://www.linkedin.com/in/francoiscarouge/).
+Safe, fast, modern C++ for your robotics and control systems: architecture, Kalman filters and state estimation, type-safe physical computations, cybersecurity, and code reviews, through support, consulting, training, or custom development. [Get in touch](https://www.linkedin.com/in/francoiscarouge/).
 
 ### Contact
 
