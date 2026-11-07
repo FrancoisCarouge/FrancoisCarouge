@@ -24,6 +24,10 @@ Fifteen years of leading large-scale distributed control and robotics software i
 - [Hybrid NOrec: A Case Study in the Effectiveness of Best Effort Hardware Transactional Memory](https://doi.org/10.1145/1950365.1950373), ASPLOS 2011.
 - [A Scalable Lock-Free Universal Construction with Best Effort Transactional Hardware](https://doi.org/10.1007/978-3-642-15763-9_6), DISC 2010.
 
+### Commercial Support & Consulting
+
+Safe, fast, modern C++ for your robotics and control systems: architecture, Kalman filters and state estimation, type-safe physical computations, cybersecurity, and code reviews, through support, consulting, training, or custom development. [Get in touch](https://www.linkedin.com/in/francoiscarouge/).
+
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/francoiscarouge/) · [Sponsor](http://paypal.me/francoiscarouge) · M.S. Computer Engineering, [Lehigh University](https://www.lehigh.edu/) and [ESIGELEC](https://en.esigelec.fr/)
