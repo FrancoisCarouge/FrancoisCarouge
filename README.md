@@ -8,6 +8,7 @@ Fifteen years of leading large-scale distributed control and robotics software i
 
 - **[Kalman](https://github.com/FrancoisCarouge/Kalman)**: Kalman filters for C++26: backend-agnostic, declarative, compile-time safe, public domain.
 - **[TypedLinearAlgebra](https://github.com/FrancoisCarouge/TypedLinearAlgebra)**: strongly-typed  heterogenous linear algebra facade: backend-agnostic, zero runtime cost, compile-time safe, public domain.
+- **[SparseLinearAlgebra](https://github.com/FrancoisCarouge/SparseLinearAlgebra)**: compile-time sparsity pattern linear algebra: structural zeros cost no memory and no operation, freestanding, real-time, public domain.
 - **Unreal Engine 4**: location and magnetic field [plugins](https://www.fab.com/sellers/Cerise%20Software).
 
 ### Experience
